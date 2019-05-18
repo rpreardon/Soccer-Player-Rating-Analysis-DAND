@@ -2,8 +2,8 @@
 - This is a project from the Data Analyst Nanodegree from Udacity
 - I queried a large database that has soccer related data; I believe it's located on Git or Kaggle.
 - My query:
-  - I queried data related to soccer player skills and the rating of those skills
-  - For this project, I did some basic data wrangling and exploratory data analysis based on insights from the data I queried from the database
+  - I queried data related to soccer player skills and the rating of those skills using SQLite
+- For this project, I did some basic data wrangling and exploratory data analysis based on insights from the data I queried from the database using a jupyter notebook
  - Insights: Centered around the a player's rating
   - Does footedness matter in soccer
   - Age
